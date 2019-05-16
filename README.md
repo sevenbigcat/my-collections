@@ -1,3 +1,3 @@
 # my-collections
 
-## [Python Collections](program-language/python)
+## [Python Collections](program-languages/python)
